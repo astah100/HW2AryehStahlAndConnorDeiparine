@@ -3,7 +3,7 @@
 
 ## Authors
 
-# Aryeh Stahl and Connor Deiparine
+##### Aryeh Stahl and Connor Deiparine
 
 
 ## Implementation
